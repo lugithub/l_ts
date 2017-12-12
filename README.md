@@ -1,1 +1,1 @@
-# l_ts
+[ts deep dive](https://basarat.gitbooks.io/typescript/content/)
