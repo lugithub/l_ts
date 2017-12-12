@@ -1,0 +1,22 @@
+{
+  "name": "l_ts",
+  "version": "1.0.0",
+  "description": "[ts deep dive](https://basarat.gitbooks.io/typescript/content/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lugithub/l_ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lugithub/l_ts/issues"
+  },
+  "homepage": "https://github.com/lugithub/l_ts#readme",
+  "devDependencies": {
+    "typescript": "^2.7.0-dev.20171212"
+  }
+}
