@@ -1,5 +1,10 @@
-function foo() {
-  console.log('g');
+interface Name {
+  first: string;
 }
 
-foo();
+interface Address {
+  zipCode: string;
+}
+
+var items: Name[] = [];
+var jtems: [Name, Address] = [{first: 'foo'}, {zipCode: '12345'}];
