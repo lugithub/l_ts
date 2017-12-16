@@ -6,6 +6,7 @@
         "removeComments": true,
         "preserveConstEnums": true,
         "outFile": "built/app.js",
+        "types": ["globals.d.ts"],
         "sourceMap": true
     },
     "include": [

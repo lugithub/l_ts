@@ -1,6 +1,9 @@
+ import * as foo from './app.css';
+
 interface Name {
   first: string;
 }
+
 
 interface Address {
   zipCode: string;
@@ -8,3 +11,5 @@ interface Address {
 
 var items: Name[] = [];
 var jtems: [Name, Address] = [{first: 'foo'}, {zipCode: '12345'}];
+
+f('');
