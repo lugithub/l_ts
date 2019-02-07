@@ -6,7 +6,12 @@
         "removeComments": true,
         "preserveConstEnums": true,
         "outFile": "built/app.js",
+
+        "forceConsistentCasingInFileNames": true,
+        "noImplicitReturns": true,
         "strict": true,
+        "noUnusedLocals": true,
+
         "sourceMap": true
     },
     "include": [
