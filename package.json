@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/lugithub/l_ts#readme",
   "devDependencies": {
-    "typescript": "^2.7.0-dev.20171212"
+    "typescript": "^3.3.0"
   }
 }
